@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/activity_detail.xml" value="0.264" />
         <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/fragment_detail.xml" value="0.25" />
+        <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/fragment_list_fragment.xml" value="0.1" />
         <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/fragment_map2.xml" value="0.1" />
         <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/fragment_map_fragment.xml" value="0.234375" />
         <entry key="..\:/Users/semah/StudioProjects/tp5/app/src/main/res/layout/item_bus_stop.xml" value="0.10989583333333333" />

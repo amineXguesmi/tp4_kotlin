@@ -13,5 +13,8 @@ class BusScheduleViewModel(private val scheduleDao:
     fun scheduleForStopName(name: String): LiveData<List<Schedule>> =
         scheduleDao.getByStopName(name)
 
+    fun addSchedule(schedule: Schedule) {
+        scheduleDao.insert(schedule)
+    }
 
-                           }
+}
